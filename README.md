@@ -41,3 +41,12 @@
 [//]: # '<!-- ![gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab) -->'
 [//]: # '<!-- ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) -->'
 [//]: # '<!-- ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->'
+
+### 📊 Github Stats
+
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
