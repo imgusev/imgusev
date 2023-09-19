@@ -3,26 +3,7 @@
   <a target="_blank"href="https://t.me/imgusev"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>
 </p>
 
-
- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=40px heigth=40px/>](https://www.w3schools.com/css/) 
-  [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width=40px heigth=40px/>](https://www.djangoproject.com/) 
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width=40px heigth=40px/>](https://www.docker.com/) 
-  [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width=40px heigth=40px/>](https://www.elastic.co)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width=40px heigth=40px/>](https://expressjs.com) 
-  [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width=40px heigth=40px/>](https://www.figma.com/)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=40px heigth=40px/>](https://www.w3.org/html/)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40px heigth=40px/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width=40px heigth=40px/>](https://kubernetes.io)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=40px heigth=40px/>](https://nodejs.org)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=40px heigth=40px/>](https://www.postgresql.org)
-  [<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width=40px heigth=40px/>](https://github.com/puppeteer/puppeteer)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40px heigth=40px/>](https://www.python.org) 
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40px heigth=40px/>](https://reactjs.org/)
-  [<img src="https://reactnative.dev/img/header_logo.svg" width=40px heigth=40px/>](https://reactnative.dev/)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width=40px heigth=40px/>](https://redis.io)
-  [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width=40px heigth=40px/>](https://www.selenium.dev)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width=40px heigth=40px/>](https://vuejs.org/)
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=40px height=40px/>](https://www.w3schools.com/css/) [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width=40px height=40px/>](https://www.djangoproject.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width=40px height=40px/>](https://www.docker.com/) [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width=40px height=40px/>](https://www.elastic.co) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width=40px height=40px/>](https://expressjs.com) [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width=40px height=40px/>](https://www.figma.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=40px height=40px/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40px height=40px/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width=40px height=40px/>](https://kubernetes.io) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=40px height=40px/>](https://nodejs.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=40px height=40px/>](https://www.postgresql.org) [<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width=40px height=40px/>](https://github.com/puppeteer/puppeteer) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40px height=40px/>](https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40px height=40px/>](https://reactjs.org/) [<img src="https://reactnative.dev/img/header_logo.svg" width=40px height=40px/>](https://reactnative.dev/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width=40px height=40px/>](https://redis.io) [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width=40px height=40px/>](https://www.selenium.dev) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width=40px height=40px/>](https://vuejs.org/)
 
 | Techonologies | Description | Tools |
 | --- | --- | --- |
@@ -59,6 +40,3 @@
 [//]: # '<!-- ![gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab) -->'
 [//]: # '<!-- ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) -->'
 [//]: # '<!-- ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->'
-
-
- 
